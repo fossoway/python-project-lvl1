@@ -1,4 +1,4 @@
-<a href="https://asciinema.org/a/KiTPGfAKutw4E50fYib7nOVl0" target="_blank"><img src="https://asciinema.org/a/KiTPGfAKutw4E50fYib7nOVl0.svg" /></a>
+<a href="https://asciinema.org/a/KiTPGfAKutw4E50fYib7nOVl0">brain-even</a>
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/fossoway/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/fossoway/python-project-lvl1/actions)
